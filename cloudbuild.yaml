@@ -30,7 +30,7 @@ steps:
         "deploy",
         "be",
         "--image",
-        "gcr.io/$PROJECT_ID/tcc-be",
+        "gcr.io/$PROJECT_ID/t6-tcc-be",
         "--timeout",
         "1000s",
         "--port",
